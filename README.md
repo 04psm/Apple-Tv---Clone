@@ -13,19 +13,18 @@ Tech-stacks : HTML , CSS , JavaScript
 THIS PROJECT IS MADE WITH THE HELP OF ALL MY TEAMMATES..
 
 
-1) AMAN KUMAR
+1) MADHUKESH
 
-2) SNEHIL GUPTA
+2) ABRAR 
 
-3) PARATH SARATHI MANNA
+3) PARATH 
 
-4) JYOTI
+4) PRAKASH
 
-5) ANJANI
+5) VIKRAM
 
-6) ROBIN ROY
 
-Go live : https://dazzling-paprenjak-91b876.netlify.app/
+Go live : https://peppy-kulfi-5a366d.netlify.app/
 
 ![sale](https://user-images.githubusercontent.com/66555692/190624343-62e1ea1f-d7b0-40bc-b70d-edaf2325ad72.jpg)
 
