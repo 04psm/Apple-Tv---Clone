@@ -3,9 +3,13 @@
 Apple TV+ is an American subscription streaming service owned and operated by Apple Inc. Launched on November 1, 2019, it offers a selection of original production film and television series called Apple Originals.
 
 it was a 4-day collaborative project which were developed by me and my team
+
 ⚫  My role in this project was a " Team member "
+
 ⚫  I was given the task to build the Home page of the website and make the website responsive for all device
+
 Tech-stacks : HTML , CSS , JavaScript
+
 THIS PROJECT IS MADE WITH THE HELP OF ALL MY TEAMMATES..
 
 
