@@ -24,7 +24,7 @@ THIS PROJECT IS MADE WITH THE HELP OF ALL MY TEAMMATES..
 5) VIKRAM
 
 
-Go live : https://peppy-kulfi-5a366d.netlify.app/
+Go live : https://dazzling-paprenjak-91b876.netlify.app/
 
 ![sale](https://user-images.githubusercontent.com/66555692/190624343-62e1ea1f-d7b0-40bc-b70d-edaf2325ad72.jpg)
 
